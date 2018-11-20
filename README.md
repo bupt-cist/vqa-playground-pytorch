@@ -16,5 +16,9 @@ Models with their conf are put into one python file under directory: config/
 ***The training of CoR2 
 >  python train.py --cf config.CoR2
 
+# Results
+![CoR2](./figure/CoR2.png)
+
+
 
 
