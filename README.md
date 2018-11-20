@@ -1,4 +1,8 @@
-Code and model for the paper "Chain of Reasoning for Visual Question Answer"
+Code and model for the papers:
+
+"Chain of Reasoning for Visual Question Answer" in NIPS 2018.
+
+"Object-Difference Attention: A Simple Relational Attention for Visual Question Answering" in ACM MM 2018.
 
 # Requirements
 python 3.6
@@ -18,6 +22,7 @@ The training of CoR2
 
 # Results
 ![CoR2](./figure/CoR2.png)
+
 
 
 
