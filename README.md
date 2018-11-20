@@ -13,7 +13,7 @@ Question: SkipThoughs
 Models with their conf are put into one python file under directory: config/
 
 # Training
-***The training of CoR2 
+The training of CoR2 
 >  python train.py --cf config.CoR2
 
 # Results
